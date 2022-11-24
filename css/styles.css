@@ -6,10 +6,18 @@ hr {
   border: none;
   border-top: 4px dotted #8ec3b0;
   height: 2px;
-  width: 70%;
+  width: auto;
 }
 
 img {
   height: 210px;
   width: 210px;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+h3 {
+  color: #66bfbf;
 }
