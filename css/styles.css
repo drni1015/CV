@@ -2,11 +2,19 @@ body {
   background-color: #def5e5;
 }
 
+/* Class Selectors
+.first_line {
+  border: none;
+  border-top: 4px dotted #caaf29;
+  height: 2px;
+  width: 55%;
+}*/
+
 hr {
   border: none;
   border-top: 4px dotted #8ec3b0;
   height: 2px;
-  width: auto;
+  width: 55%;
 }
 
 img {
